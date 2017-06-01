@@ -1,0 +1,28 @@
+body{
+  font-family: 'Heebo', sans-serif;
+}
+nav {
+  background-color:black;
+  color: white;
+}
+li {
+  display: inline-block;
+}
+ul {
+  margin: 0 auto;
+  width: 80%;
+  text-align:center;
+  padding:10px 5px 5px 10px;
+  font-size:14px;
+  word-spacing: 73px;
+  text-decoration-color: white;
+  text-decoration-style: none;
+}
+i.fa.fa-apple{
+  color: white;
+  font-size: 20px;
+}
+a:-webkit-any-link {
+    color: white;
+    cursor: auto;
+    text-decoration: none;
